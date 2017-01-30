@@ -6,9 +6,9 @@ A UITextField subclass that imposes emoji input mode restriction on the keyboard
 [![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
 [![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
 
-<img src="https://s27.postimg.org/saa6okk8j/1.png" alt="img1" style="width: 200px;">
-<img src="https://s27.postimg.org/jgja7gx9v/2.png" alt="img2" style="width: 200px;">
-<img src="https://s27.postimg.org/aa0zk6s1f/3.png" alt="img3" style="width: 200px;">
+<img src="https://raw.githubusercontent.com/JKalash/JKEmojiField/master/Screenshots/1.png">
+<img src="https://raw.githubusercontent.com/JKalash/JKEmojiField/master/Screenshots/2.png">
+<img src="https://raw.githubusercontent.com/JKalash/JKEmojiField/master/Screenshots/3.png">
 
 ## Usage
 
