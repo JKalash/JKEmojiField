@@ -1,8 +1,9 @@
 Pod::Spec.new do |s|
 
   s.name         = "JKEmojiField"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "A UITextField subclass that forces emoji keyboard and text."
+  s.requires_arc = true
 
   s.description  = <<-DESC
 Swift UITextField subclass emoji keyboard cehcks for emoji text attributes and forces emoji keyboard with option of limiting to one emoji only
