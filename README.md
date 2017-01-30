@@ -2,9 +2,10 @@
 
 A UITextField subclass that imposes emoji input mode restriction on the keyboard and text entry.
 
-[![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
+[![Version](https://img.shields.io/cocoapods/v/JKEmojiField.svg?style=flat)](https://cocoapods.org/pods/JKEmojiField)
+[![License](https://img.shields.io/cocoapods/l/JKEmojiField.svg?style=flat)](https://cocoapods.org/pods/JKEmojiField)
+[![Platform](https://img.shields.io/cocoapods/p/JKEmojiField.svg?style=flat)](https://cocoapods.org/pods/JKEmojiField)
+[![Downloads](https://img.shields.io/cocoapods/dt/JKEmojiField.svg?style=flat)](https://cocoapods.org/pods/JKEmojiField)
 
 <img src="https://raw.githubusercontent.com/JKalash/JKEmojiField/master/Screenshots/1.png">
 <img src="https://raw.githubusercontent.com/JKalash/JKEmojiField/master/Screenshots/2.png">
